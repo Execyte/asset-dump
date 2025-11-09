@@ -11,7 +11,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1" /><g
-     id="layer1"><path
+     id="layer1"
+     transform="matrix(1,-0.13274336,-0.1171875,1.0155559,15,15)"><path
        style="fill:#d5d5d5;fill-opacity:1;stroke-width:2.14589"
        d="M 82.119688,79.148878 H 109.24593 V 31.676412 l -74.598686,0.0021 V 113.0548 h 47.470685 l 0.0018,33.90791 -20.346225,0.002 v -20.34635 h -27.12626 v 47.4706 H 109.24593 V 85.930417 l -47.472467,-0.0018 V 58.802416 h 20.346225 z"
        id="path14" /><path
